@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "business_id": "BUSINESS_ID_HERE",
+      "principal": 2500000,
+      "emi": 85000,
+      "interest_rate": 9.5
+    }
+  ]
+}

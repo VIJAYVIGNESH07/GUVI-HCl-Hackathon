@@ -1,0 +1,33 @@
+from app.api.routes import (
+    auth,
+    benchmark,
+    compliance,
+    data,
+    forecast,
+    fraud,
+    health,
+    ingest,
+    insights,
+    payments,
+    products,
+    reports,
+    risk,
+    stress,
+)
+
+__all__ = [
+    "auth",
+    "benchmark",
+    "compliance",
+    "data",
+    "forecast",
+    "fraud",
+    "health",
+    "ingest",
+    "insights",
+    "payments",
+    "products",
+    "reports",
+    "risk",
+    "stress",
+]

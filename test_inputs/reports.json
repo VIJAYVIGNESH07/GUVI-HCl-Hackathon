@@ -1,0 +1,7 @@
+{
+  "business_name": "Acme Industries",
+  "industry": "Manufacturing",
+  "health_score": 82,
+  "bankruptcy_probability": 12,
+  "forecast": [1200, 1280, 1350, 1400]
+}

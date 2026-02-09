@@ -1,0 +1,9 @@
+{
+  "revenue": 1200000,
+  "expenses": 820000,
+  "profit": 380000,
+  "receivable_days": 18,
+  "payable_days": 30,
+  "current_assets": 1600000,
+  "current_liabilities": 950000
+}

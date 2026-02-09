@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "business_id": "BUSINESS_ID_HERE",
+      "amount": 120000,
+      "category": "Logistics",
+      "vendor": "Zen Freight",
+      "date": "2026-01-18"
+    },
+    {
+      "business_id": "BUSINESS_ID_HERE",
+      "amount": 120000,
+      "category": "Logistics",
+      "vendor": "Zen Freight",
+      "date": "2026-01-18"
+    },
+    {
+      "business_id": "BUSINESS_ID_HERE",
+      "amount": 45000,
+      "category": "Supplies",
+      "vendor": "Prime Supplies",
+      "date": "2026-01-12"
+    }
+  ]
+}

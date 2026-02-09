@@ -1,0 +1,7 @@
+{
+  "profit_margin_trend": 0.15,
+  "cash_flow_stability": 0.2,
+  "receivable_delay_days": 12,
+  "short_term_debt_growth": 0.1,
+  "revenue_trend": 0.18
+}

@@ -1,0 +1,11 @@
+{
+  "revenue": 1200000,
+  "fixed_costs": 360000,
+  "variable_costs": 420000,
+  "loan_emi": 120000,
+  "cash_reserves": 900000,
+  "receivable_delay_days": 15,
+  "revenue_drop_pct": 0.2,
+  "cost_increase_pct": 0.1,
+  "emi_increase_pct": 0.05
+}

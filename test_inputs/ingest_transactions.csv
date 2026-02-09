@@ -1,0 +1,4 @@
+business_id,amount,category,vendor,date
+BUSINESS_ID_HERE,120000,Logistics,Zen Freight,2026-01-18
+BUSINESS_ID_HERE,45000,Supplies,Prime Supplies,2026-01-12
+BUSINESS_ID_HERE,88000,Maintenance,Metro Repairs,2026-01-08
